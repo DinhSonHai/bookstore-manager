@@ -1,0 +1,565 @@
+D:\Năm 2 - Học kỳ 2\WindowsProgramming\QLNhaSach\QLNhaSach\bin\Debug\QLNhaSach.exe.config
+D:\Năm 2 - Học kỳ 2\WindowsProgramming\QLNhaSach\QLNhaSach\bin\Debug\QLNhaSach.exe
+D:\Năm 2 - Học kỳ 2\WindowsProgramming\QLNhaSach\QLNhaSach\bin\Debug\QLNhaSach.pdb
+D:\Năm 2 - Học kỳ 2\WindowsProgramming\QLNhaSach\QLNhaSach\bin\Debug\EntityFramework.dll
+D:\Năm 2 - Học kỳ 2\WindowsProgramming\QLNhaSach\QLNhaSach\bin\Debug\EntityFramework.SqlServer.dll
+D:\Năm 2 - Học kỳ 2\WindowsProgramming\QLNhaSach\QLNhaSach\bin\Debug\EntityFramework.xml
+D:\Năm 2 - Học kỳ 2\WindowsProgramming\QLNhaSach\QLNhaSach\bin\Debug\EntityFramework.SqlServer.xml
+D:\Năm 2 - Học kỳ 2\WindowsProgramming\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.csprojAssemblyReference.cache
+D:\Năm 2 - Học kỳ 2\WindowsProgramming\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.Form1.resources
+D:\Năm 2 - Học kỳ 2\WindowsProgramming\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.Properties.Resources.resources
+D:\Năm 2 - Học kỳ 2\WindowsProgramming\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.csproj.GenerateResource.cache
+D:\Năm 2 - Học kỳ 2\WindowsProgramming\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.csproj.CoreCompileInputs.cache
+D:\Năm 2 - Học kỳ 2\WindowsProgramming\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.csproj.CopyComplete
+D:\Năm 2 - Học kỳ 2\WindowsProgramming\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.exe
+D:\Năm 2 - Học kỳ 2\WindowsProgramming\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.pdb
+D:\Năm 2 - Học kỳ 2\WindowsProgramming\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.FormNXB.resources
+D:\Năm 2 - Học kỳ 2\WindowsProgramming\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.formDauSach.resources
+D:\Năm 2 - Học kỳ 2\WindowsProgramming\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.formTacGia.resources
+D:\Năm 2 - Học kỳ 2\WindowsProgramming\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.formCuonSach.resources
+D:\Năm 2 - Học kỳ 2\WindowsProgramming\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.formMuonTra.resources
+D:\Năm 2 - Học kỳ 2\WindowsProgramming\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.formDocGia.resources
+D:\Năm 2 - Học kỳ 2\WindowsProgramming\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.formNhanVien.resources
+D:\Năm 2 - Học kỳ 2\WindowsProgramming\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.formDangNhap.resources
+D:\Năm 2 - Học kỳ 2\WindowsProgramming\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.formStaticticsNV.resources
+D:\Năm 2 - Học kỳ 2\WindowsProgramming\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.formStaticticsDG.resources
+D:\Năm 2 - Học kỳ 2\WindowsProgramming\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.exe.config
+D:\Năm 2 - Học kỳ 2\WindowsProgramming\QLNhaSach\QLNhaSach\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Năm 2 - Học kỳ 2\WindowsProgramming\QLNhaSach\QLNhaSach\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Năm 2 - Học kỳ 2\WindowsProgramming\QLNhaSach\QLNhaSach\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Năm 2 - Học kỳ 2\WindowsProgramming\QLNhaSach\QLNhaSach\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Năm 2 - Học kỳ 2\WindowsProgramming\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Năm 2 - Học kỳ 2\WindowsProgramming\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Năm 2 - Học kỳ 2\WindowsProgramming\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Năm 2 - Học kỳ 2\WindowsProgramming\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Năm 2 - Học kỳ 2\WindowsProgramming\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+D:\Năm 2 - Học kỳ 2\WindowsProgramming\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Năm 2 - Học kỳ 2\WindowsProgramming\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Năm 2 - Học kỳ 2\WindowsProgramming\QLNhaSach\QLNhaSach\bin\Debug\EnvDTE.dll
+D:\Năm 2 - Học kỳ 2\WindowsProgramming\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Năm 2 - Học kỳ 2\WindowsProgramming\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Năm 2 - Học kỳ 2\WindowsProgramming\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.Build.Framework.dll
+D:\Năm 2 - Học kỳ 2\WindowsProgramming\QLNhaSach\QLNhaSach\bin\Debug\stdole.dll
+D:\Năm 2 - Học kỳ 2\WindowsProgramming\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Năm 2 - Học kỳ 2\WindowsProgramming\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Năm 2 - Học kỳ 2\WindowsProgramming\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+D:\Năm 2 - Học kỳ 2\WindowsProgramming\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+D:\Năm 2 - Học kỳ 2\WindowsProgramming\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Năm 2 - Học kỳ 2\WindowsProgramming\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+D:\Năm 2 - Học kỳ 2\WindowsProgramming\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+D:\Năm 2 - Học kỳ 2\WindowsProgramming\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+D:\Năm 2 - Học kỳ 2\WindowsProgramming\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+D:\Năm 2 - Học kỳ 2\WindowsProgramming\QLNhaSach\QLNhaSach\bin\Debug\EnvDTE80.dll
+D:\Năm 2 - Học kỳ 2\WindowsProgramming\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.Build.Tasks.Core.dll
+D:\Năm 2 - Học kỳ 2\WindowsProgramming\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+D:\Năm 2 - Học kỳ 2\WindowsProgramming\QLNhaSach\QLNhaSach\bin\Debug\VSLangProj.dll
+D:\Năm 2 - Học kỳ 2\WindowsProgramming\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+D:\Năm 2 - Học kỳ 2\WindowsProgramming\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+D:\Năm 2 - Học kỳ 2\WindowsProgramming\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+D:\Năm 2 - Học kỳ 2\WindowsProgramming\QLNhaSach\QLNhaSach\bin\Debug\VSLangProj80.dll
+D:\Năm 2 - Học kỳ 2\WindowsProgramming\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+D:\Năm 2 - Học kỳ 2\WindowsProgramming\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+D:\Năm 2 - Học kỳ 2\WindowsProgramming\QLNhaSach\QLNhaSach\bin\Debug\Newtonsoft.Json.dll
+D:\Năm 2 - Học kỳ 2\WindowsProgramming\QLNhaSach\QLNhaSach\bin\Debug\System.Threading.Tasks.Dataflow.dll
+D:\Năm 2 - Học kỳ 2\WindowsProgramming\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+D:\Năm 2 - Học kỳ 2\WindowsProgramming\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.MSXML.dll
+D:\Năm 2 - Học kỳ 2\WindowsProgramming\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.Build.Utilities.Core.dll
+D:\Năm 2 - Học kỳ 2\WindowsProgramming\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+D:\Năm 2 - Học kỳ 2\WindowsProgramming\QLNhaSach\QLNhaSach\bin\Debug\VSLangProj2.dll
+D:\Năm 2 - Học kỳ 2\WindowsProgramming\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+D:\Năm 2 - Học kỳ 2\WindowsProgramming\QLNhaSach\QLNhaSach\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Năm 2 - Học kỳ 2\WindowsProgramming\QLNhaSach\QLNhaSach\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Năm 2 - Học kỳ 2\WindowsProgramming\QLNhaSach\QLNhaSach\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Năm 2 - Học kỳ 2\WindowsProgramming\QLNhaSach\QLNhaSach\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Năm 2 - Học kỳ 2\WindowsProgramming\QLNhaSach\QLNhaSach\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Năm 2 - Học kỳ 2\WindowsProgramming\QLNhaSach\QLNhaSach\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Năm 2 - Học kỳ 2\WindowsProgramming\QLNhaSach\QLNhaSach\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Năm 2 - Học kỳ 2\WindowsProgramming\QLNhaSach\QLNhaSach\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Năm 2 - Học kỳ 2\WindowsProgramming\QLNhaSach\QLNhaSach\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Năm 2 - Học kỳ 2\WindowsProgramming\QLNhaSach\QLNhaSach\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Năm 2 - Học kỳ 2\WindowsProgramming\QLNhaSach\QLNhaSach\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Năm 2 - Học kỳ 2\WindowsProgramming\QLNhaSach\QLNhaSach\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Năm 2 - Học kỳ 2\WindowsProgramming\QLNhaSach\QLNhaSach\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Năm 2 - Học kỳ 2\WindowsProgramming\QLNhaSach\QLNhaSach\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Năm 2 - Học kỳ 2\WindowsProgramming\QLNhaSach\QLNhaSach\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Năm 2 - Học kỳ 2\WindowsProgramming\QLNhaSach\QLNhaSach\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Năm 2 - Học kỳ 2\WindowsProgramming\QLNhaSach\QLNhaSach\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Năm 2 - Học kỳ 2\WindowsProgramming\QLNhaSach\QLNhaSach\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Năm 2 - Học kỳ 2\WindowsProgramming\QLNhaSach\QLNhaSach\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Năm 2 - Học kỳ 2\WindowsProgramming\QLNhaSach\QLNhaSach\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Năm 2 - Học kỳ 2\WindowsProgramming\QLNhaSach\QLNhaSach\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Năm 2 - Học kỳ 2\WindowsProgramming\QLNhaSach\QLNhaSach\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Năm 2 - Học kỳ 2\WindowsProgramming\QLNhaSach\QLNhaSach\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Năm 2 - Học kỳ 2\WindowsProgramming\QLNhaSach\QLNhaSach\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Năm 2 - Học kỳ 2\WindowsProgramming\QLNhaSach\QLNhaSach\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Năm 2 - Học kỳ 2\WindowsProgramming\QLNhaSach\QLNhaSach\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Năm 2 - Học kỳ 2\WindowsProgramming\QLNhaSach\QLNhaSach\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Năm 2 - Học kỳ 2\WindowsProgramming\QLNhaSach\QLNhaSach\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Năm 2 - Học kỳ 2\WindowsProgramming\QLNhaSach\QLNhaSach\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Năm 2 - Học kỳ 2\WindowsProgramming\QLNhaSach\QLNhaSach\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Năm 2 - Học kỳ 2\WindowsProgramming\QLNhaSach\QLNhaSach\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Năm 2 - Học kỳ 2\WindowsProgramming\QLNhaSach\QLNhaSach\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Năm 2 - Học kỳ 2\WindowsProgramming\QLNhaSach\QLNhaSach\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Năm 2 - Học kỳ 2\WindowsProgramming\QLNhaSach\QLNhaSach\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Năm 2 - Học kỳ 2\WindowsProgramming\QLNhaSach\QLNhaSach\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Năm 2 - Học kỳ 2\WindowsProgramming\QLNhaSach\QLNhaSach\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Năm 2 - Học kỳ 2\WindowsProgramming\QLNhaSach\QLNhaSach\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Năm 2 - Học kỳ 2\WindowsProgramming\QLNhaSach\QLNhaSach\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Năm 2 - Học kỳ 2\WindowsProgramming\QLNhaSach\QLNhaSach\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Năm 2 - Học kỳ 2\WindowsProgramming\QLNhaSach\QLNhaSach\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Năm 2 - Học kỳ 2\WindowsProgramming\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.Report.resources
+D:\Năm 2 - Học kỳ 2\WindowsProgramming\QLNhaSach\QLNhaSach\obj\Debug\RdlCompile.cache
+D:\Năm 2 - Học kỳ 2\WindowsProgramming\QLNhaSach\QLNhaSach\obj\Debug\RdlCompile.compiled
+C:\Users\Administrator\Downloads\QLNhaSach\QLNhaSach\bin\Debug\QLNhaSach.exe.config
+C:\Users\Administrator\Downloads\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.exe
+C:\Users\Administrator\Downloads\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.pdb
+D:\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\QLNhaSach.exe.config
+D:\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\QLNhaSach.exe
+D:\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\QLNhaSach.pdb
+D:\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\EntityFramework.dll
+D:\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\EntityFramework.SqlServer.dll
+D:\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+D:\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\EnvDTE.dll
+D:\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.Build.Framework.dll
+D:\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\stdole.dll
+D:\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+D:\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+D:\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+D:\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+D:\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+D:\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+D:\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\EnvDTE80.dll
+D:\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.Build.Tasks.Core.dll
+D:\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+D:\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\VSLangProj.dll
+D:\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+D:\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+D:\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+D:\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\VSLangProj80.dll
+D:\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+D:\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+D:\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\Newtonsoft.Json.dll
+D:\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\System.Threading.Tasks.Dataflow.dll
+D:\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+D:\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.MSXML.dll
+D:\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.Build.Utilities.Core.dll
+D:\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+D:\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\VSLangProj2.dll
+D:\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\EntityFramework.xml
+D:\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\EntityFramework.SqlServer.xml
+D:\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+D:\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QLNhaSach\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.csprojAssemblyReference.cache
+D:\QLNhaSach\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.exe.config
+D:\QLNhaSach\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.Form1.resources
+D:\QLNhaSach\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.formCuonSach.resources
+D:\QLNhaSach\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.formDangNhap.resources
+D:\QLNhaSach\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.formDauSach.resources
+D:\QLNhaSach\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.formDocGia.resources
+D:\QLNhaSach\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.formMuonTra.resources
+D:\QLNhaSach\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.formNhanVien.resources
+D:\QLNhaSach\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.FormNXB.resources
+D:\QLNhaSach\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.formStaticticsDG.resources
+D:\QLNhaSach\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.formStaticticsNV.resources
+D:\QLNhaSach\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.formTacGia.resources
+D:\QLNhaSach\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.HuongDan.resources
+D:\QLNhaSach\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.Properties.Resources.resources
+D:\QLNhaSach\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.Report.resources
+D:\QLNhaSach\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.csproj.GenerateResource.cache
+D:\QLNhaSach\QLNhaSach\QLNhaSach\obj\Debug\RdlCompile.cache
+D:\QLNhaSach\QLNhaSach\QLNhaSach\obj\Debug\RdlCompile.compiled
+D:\QLNhaSach\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.csproj.CoreCompileInputs.cache
+D:\QLNhaSach\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.csproj.CopyComplete
+D:\QLNhaSach\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.exe
+D:\QLNhaSach\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.pdb
+D:\QLNhaSach\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.formDoiMK.resources
+C:\Users\Dinh Son Hai\Desktop\New folder\QLNhaSach\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.csprojAssemblyReference.cache
+C:\Users\Dinh Son Hai\Desktop\New folder\QLNhaSach\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.exe.config
+C:\Users\Dinh Son Hai\Desktop\New folder\QLNhaSach\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.Form1.resources
+C:\Users\Dinh Son Hai\Desktop\New folder\QLNhaSach\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.formCuonSach.resources
+C:\Users\Dinh Son Hai\Desktop\New folder\QLNhaSach\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.formDangNhap.resources
+C:\Users\Dinh Son Hai\Desktop\New folder\QLNhaSach\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.formDauSach.resources
+C:\Users\Dinh Son Hai\Desktop\New folder\QLNhaSach\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.formDocGia.resources
+C:\Users\Dinh Son Hai\Desktop\New folder\QLNhaSach\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.formDoiMK.resources
+C:\Users\Dinh Son Hai\Desktop\New folder\QLNhaSach\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.formMuonTra.resources
+C:\Users\Dinh Son Hai\Desktop\New folder\QLNhaSach\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.formNhanVien.resources
+C:\Users\Dinh Son Hai\Desktop\New folder\QLNhaSach\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.FormNXB.resources
+C:\Users\Dinh Son Hai\Desktop\New folder\QLNhaSach\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.formStaticticsDG.resources
+C:\Users\Dinh Son Hai\Desktop\New folder\QLNhaSach\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.formStaticticsNV.resources
+C:\Users\Dinh Son Hai\Desktop\New folder\QLNhaSach\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.formTacGia.resources
+C:\Users\Dinh Son Hai\Desktop\New folder\QLNhaSach\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.HuongDan.resources
+C:\Users\Dinh Son Hai\Desktop\New folder\QLNhaSach\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.Report.resources
+C:\Users\Dinh Son Hai\Desktop\New folder\QLNhaSach\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.csproj.GenerateResource.cache
+C:\Users\Dinh Son Hai\Desktop\New folder\QLNhaSach\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.exe
+C:\Users\Dinh Son Hai\Desktop\New folder\QLNhaSach\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.pdb
+C:\Users\Dinh Son Hai\Desktop\New folder\QLNhaSach\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.Properties.Resources.resources
+C:\Users\Dinh Son Hai\Desktop\New folder\QLNhaSach\QLNhaSach\QLNhaSach\obj\Debug\RdlCompile.cache
+C:\Users\Dinh Son Hai\Desktop\New folder\QLNhaSach\QLNhaSach\QLNhaSach\obj\Debug\RdlCompile.compiled
+C:\Users\Dinh Son Hai\Desktop\New folder\QLNhaSach\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.csproj.CoreCompileInputs.cache
+C:\Users\Dinh Son Hai\Desktop\New folder\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Dinh Son Hai\Desktop\New folder\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Dinh Son Hai\Desktop\New folder\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Dinh Son Hai\Desktop\New folder\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Dinh Son Hai\Desktop\New folder\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\QLNhaSach.exe.config
+C:\Users\Dinh Son Hai\Desktop\New folder\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\QLNhaSach.exe
+C:\Users\Dinh Son Hai\Desktop\New folder\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\QLNhaSach.pdb
+C:\Users\Dinh Son Hai\Desktop\New folder\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\EntityFramework.dll
+C:\Users\Dinh Son Hai\Desktop\New folder\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dinh Son Hai\Desktop\New folder\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Dinh Son Hai\Desktop\New folder\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Dinh Son Hai\Desktop\New folder\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Dinh Son Hai\Desktop\New folder\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Dinh Son Hai\Desktop\New folder\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\Dinh Son Hai\Desktop\New folder\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Dinh Son Hai\Desktop\New folder\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Dinh Son Hai\Desktop\New folder\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\EnvDTE.dll
+C:\Users\Dinh Son Hai\Desktop\New folder\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Dinh Son Hai\Desktop\New folder\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Dinh Son Hai\Desktop\New folder\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\Dinh Son Hai\Desktop\New folder\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\stdole.dll
+C:\Users\Dinh Son Hai\Desktop\New folder\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Dinh Son Hai\Desktop\New folder\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Dinh Son Hai\Desktop\New folder\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\Dinh Son Hai\Desktop\New folder\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\Dinh Son Hai\Desktop\New folder\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Dinh Son Hai\Desktop\New folder\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\Dinh Son Hai\Desktop\New folder\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\Dinh Son Hai\Desktop\New folder\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\Dinh Son Hai\Desktop\New folder\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\Dinh Son Hai\Desktop\New folder\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\EnvDTE80.dll
+C:\Users\Dinh Son Hai\Desktop\New folder\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\Dinh Son Hai\Desktop\New folder\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\Dinh Son Hai\Desktop\New folder\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\VSLangProj.dll
+C:\Users\Dinh Son Hai\Desktop\New folder\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\Dinh Son Hai\Desktop\New folder\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\Dinh Son Hai\Desktop\New folder\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\Dinh Son Hai\Desktop\New folder\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\VSLangProj80.dll
+C:\Users\Dinh Son Hai\Desktop\New folder\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\Dinh Son Hai\Desktop\New folder\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\Dinh Son Hai\Desktop\New folder\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dinh Son Hai\Desktop\New folder\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\Dinh Son Hai\Desktop\New folder\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\Dinh Son Hai\Desktop\New folder\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Dinh Son Hai\Desktop\New folder\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\Dinh Son Hai\Desktop\New folder\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\Dinh Son Hai\Desktop\New folder\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\VSLangProj2.dll
+C:\Users\Dinh Son Hai\Desktop\New folder\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\EntityFramework.xml
+C:\Users\Dinh Son Hai\Desktop\New folder\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dinh Son Hai\Desktop\New folder\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\Dinh Son Hai\Desktop\New folder\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dinh Son Hai\Desktop\New folder\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dinh Son Hai\Desktop\New folder\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dinh Son Hai\Desktop\New folder\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dinh Son Hai\Desktop\New folder\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dinh Son Hai\Desktop\New folder\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dinh Son Hai\Desktop\New folder\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dinh Son Hai\Desktop\New folder\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dinh Son Hai\Desktop\New folder\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dinh Son Hai\Desktop\New folder\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dinh Son Hai\Desktop\New folder\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dinh Son Hai\Desktop\New folder\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dinh Son Hai\Desktop\New folder\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dinh Son Hai\Desktop\New folder\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dinh Son Hai\Desktop\New folder\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dinh Son Hai\Desktop\New folder\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dinh Son Hai\Desktop\New folder\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dinh Son Hai\Desktop\New folder\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dinh Son Hai\Desktop\New folder\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dinh Son Hai\Desktop\New folder\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dinh Son Hai\Desktop\New folder\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dinh Son Hai\Desktop\New folder\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dinh Son Hai\Desktop\New folder\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dinh Son Hai\Desktop\New folder\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dinh Son Hai\Desktop\New folder\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dinh Son Hai\Desktop\New folder\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dinh Son Hai\Desktop\New folder\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dinh Son Hai\Desktop\New folder\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dinh Son Hai\Desktop\New folder\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dinh Son Hai\Desktop\New folder\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dinh Son Hai\Desktop\New folder\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dinh Son Hai\Desktop\New folder\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dinh Son Hai\Desktop\New folder\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dinh Son Hai\Desktop\New folder\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dinh Son Hai\Desktop\New folder\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dinh Son Hai\Desktop\New folder\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dinh Son Hai\Desktop\New folder\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dinh Son Hai\Desktop\New folder\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dinh Son Hai\Desktop\New folder\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dinh Son Hai\Desktop\New folder\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dinh Son Hai\Desktop\New folder\QLNhaSach\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.csproj.CopyComplete
+D:\Nam3HK1\DBMS\DoAnCuoiKy-Nhom3\DoAnCuoiKy-Nhom3\Entity framework - QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Nam3HK1\DBMS\DoAnCuoiKy-Nhom3\DoAnCuoiKy-Nhom3\Entity framework - QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Nam3HK1\DBMS\DoAnCuoiKy-Nhom3\DoAnCuoiKy-Nhom3\Entity framework - QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Nam3HK1\DBMS\DoAnCuoiKy-Nhom3\DoAnCuoiKy-Nhom3\Entity framework - QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Nam3HK1\DBMS\DoAnCuoiKy-Nhom3\DoAnCuoiKy-Nhom3\Entity framework - QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\QLNhaSach.exe.config
+D:\Nam3HK1\DBMS\DoAnCuoiKy-Nhom3\DoAnCuoiKy-Nhom3\Entity framework - QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\QLNhaSach.exe
+D:\Nam3HK1\DBMS\DoAnCuoiKy-Nhom3\DoAnCuoiKy-Nhom3\Entity framework - QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\QLNhaSach.pdb
+D:\Nam3HK1\DBMS\DoAnCuoiKy-Nhom3\DoAnCuoiKy-Nhom3\Entity framework - QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\EntityFramework.dll
+D:\Nam3HK1\DBMS\DoAnCuoiKy-Nhom3\DoAnCuoiKy-Nhom3\Entity framework - QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\EntityFramework.SqlServer.dll
+D:\Nam3HK1\DBMS\DoAnCuoiKy-Nhom3\DoAnCuoiKy-Nhom3\Entity framework - QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Nam3HK1\DBMS\DoAnCuoiKy-Nhom3\DoAnCuoiKy-Nhom3\Entity framework - QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Nam3HK1\DBMS\DoAnCuoiKy-Nhom3\DoAnCuoiKy-Nhom3\Entity framework - QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Nam3HK1\DBMS\DoAnCuoiKy-Nhom3\DoAnCuoiKy-Nhom3\Entity framework - QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Nam3HK1\DBMS\DoAnCuoiKy-Nhom3\DoAnCuoiKy-Nhom3\Entity framework - QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+D:\Nam3HK1\DBMS\DoAnCuoiKy-Nhom3\DoAnCuoiKy-Nhom3\Entity framework - QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Nam3HK1\DBMS\DoAnCuoiKy-Nhom3\DoAnCuoiKy-Nhom3\Entity framework - QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Nam3HK1\DBMS\DoAnCuoiKy-Nhom3\DoAnCuoiKy-Nhom3\Entity framework - QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\EnvDTE.dll
+D:\Nam3HK1\DBMS\DoAnCuoiKy-Nhom3\DoAnCuoiKy-Nhom3\Entity framework - QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Nam3HK1\DBMS\DoAnCuoiKy-Nhom3\DoAnCuoiKy-Nhom3\Entity framework - QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Nam3HK1\DBMS\DoAnCuoiKy-Nhom3\DoAnCuoiKy-Nhom3\Entity framework - QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.Build.Framework.dll
+D:\Nam3HK1\DBMS\DoAnCuoiKy-Nhom3\DoAnCuoiKy-Nhom3\Entity framework - QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\stdole.dll
+D:\Nam3HK1\DBMS\DoAnCuoiKy-Nhom3\DoAnCuoiKy-Nhom3\Entity framework - QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Nam3HK1\DBMS\DoAnCuoiKy-Nhom3\DoAnCuoiKy-Nhom3\Entity framework - QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Nam3HK1\DBMS\DoAnCuoiKy-Nhom3\DoAnCuoiKy-Nhom3\Entity framework - QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+D:\Nam3HK1\DBMS\DoAnCuoiKy-Nhom3\DoAnCuoiKy-Nhom3\Entity framework - QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+D:\Nam3HK1\DBMS\DoAnCuoiKy-Nhom3\DoAnCuoiKy-Nhom3\Entity framework - QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Nam3HK1\DBMS\DoAnCuoiKy-Nhom3\DoAnCuoiKy-Nhom3\Entity framework - QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+D:\Nam3HK1\DBMS\DoAnCuoiKy-Nhom3\DoAnCuoiKy-Nhom3\Entity framework - QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+D:\Nam3HK1\DBMS\DoAnCuoiKy-Nhom3\DoAnCuoiKy-Nhom3\Entity framework - QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+D:\Nam3HK1\DBMS\DoAnCuoiKy-Nhom3\DoAnCuoiKy-Nhom3\Entity framework - QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+D:\Nam3HK1\DBMS\DoAnCuoiKy-Nhom3\DoAnCuoiKy-Nhom3\Entity framework - QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\EnvDTE80.dll
+D:\Nam3HK1\DBMS\DoAnCuoiKy-Nhom3\DoAnCuoiKy-Nhom3\Entity framework - QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.Build.Tasks.Core.dll
+D:\Nam3HK1\DBMS\DoAnCuoiKy-Nhom3\DoAnCuoiKy-Nhom3\Entity framework - QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+D:\Nam3HK1\DBMS\DoAnCuoiKy-Nhom3\DoAnCuoiKy-Nhom3\Entity framework - QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\VSLangProj.dll
+D:\Nam3HK1\DBMS\DoAnCuoiKy-Nhom3\DoAnCuoiKy-Nhom3\Entity framework - QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+D:\Nam3HK1\DBMS\DoAnCuoiKy-Nhom3\DoAnCuoiKy-Nhom3\Entity framework - QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+D:\Nam3HK1\DBMS\DoAnCuoiKy-Nhom3\DoAnCuoiKy-Nhom3\Entity framework - QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+D:\Nam3HK1\DBMS\DoAnCuoiKy-Nhom3\DoAnCuoiKy-Nhom3\Entity framework - QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\VSLangProj80.dll
+D:\Nam3HK1\DBMS\DoAnCuoiKy-Nhom3\DoAnCuoiKy-Nhom3\Entity framework - QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+D:\Nam3HK1\DBMS\DoAnCuoiKy-Nhom3\DoAnCuoiKy-Nhom3\Entity framework - QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+D:\Nam3HK1\DBMS\DoAnCuoiKy-Nhom3\DoAnCuoiKy-Nhom3\Entity framework - QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\Newtonsoft.Json.dll
+D:\Nam3HK1\DBMS\DoAnCuoiKy-Nhom3\DoAnCuoiKy-Nhom3\Entity framework - QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+D:\Nam3HK1\DBMS\DoAnCuoiKy-Nhom3\DoAnCuoiKy-Nhom3\Entity framework - QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.MSXML.dll
+D:\Nam3HK1\DBMS\DoAnCuoiKy-Nhom3\DoAnCuoiKy-Nhom3\Entity framework - QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.Build.Utilities.Core.dll
+D:\Nam3HK1\DBMS\DoAnCuoiKy-Nhom3\DoAnCuoiKy-Nhom3\Entity framework - QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+D:\Nam3HK1\DBMS\DoAnCuoiKy-Nhom3\DoAnCuoiKy-Nhom3\Entity framework - QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\VSLangProj2.dll
+D:\Nam3HK1\DBMS\DoAnCuoiKy-Nhom3\DoAnCuoiKy-Nhom3\Entity framework - QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\EntityFramework.xml
+D:\Nam3HK1\DBMS\DoAnCuoiKy-Nhom3\DoAnCuoiKy-Nhom3\Entity framework - QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\EntityFramework.SqlServer.xml
+D:\Nam3HK1\DBMS\DoAnCuoiKy-Nhom3\DoAnCuoiKy-Nhom3\Entity framework - QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+D:\Nam3HK1\DBMS\DoAnCuoiKy-Nhom3\DoAnCuoiKy-Nhom3\Entity framework - QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Nam3HK1\DBMS\DoAnCuoiKy-Nhom3\DoAnCuoiKy-Nhom3\Entity framework - QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Nam3HK1\DBMS\DoAnCuoiKy-Nhom3\DoAnCuoiKy-Nhom3\Entity framework - QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Nam3HK1\DBMS\DoAnCuoiKy-Nhom3\DoAnCuoiKy-Nhom3\Entity framework - QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Nam3HK1\DBMS\DoAnCuoiKy-Nhom3\DoAnCuoiKy-Nhom3\Entity framework - QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Nam3HK1\DBMS\DoAnCuoiKy-Nhom3\DoAnCuoiKy-Nhom3\Entity framework - QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Nam3HK1\DBMS\DoAnCuoiKy-Nhom3\DoAnCuoiKy-Nhom3\Entity framework - QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Nam3HK1\DBMS\DoAnCuoiKy-Nhom3\DoAnCuoiKy-Nhom3\Entity framework - QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Nam3HK1\DBMS\DoAnCuoiKy-Nhom3\DoAnCuoiKy-Nhom3\Entity framework - QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Nam3HK1\DBMS\DoAnCuoiKy-Nhom3\DoAnCuoiKy-Nhom3\Entity framework - QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Nam3HK1\DBMS\DoAnCuoiKy-Nhom3\DoAnCuoiKy-Nhom3\Entity framework - QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nam3HK1\DBMS\DoAnCuoiKy-Nhom3\DoAnCuoiKy-Nhom3\Entity framework - QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nam3HK1\DBMS\DoAnCuoiKy-Nhom3\DoAnCuoiKy-Nhom3\Entity framework - QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nam3HK1\DBMS\DoAnCuoiKy-Nhom3\DoAnCuoiKy-Nhom3\Entity framework - QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nam3HK1\DBMS\DoAnCuoiKy-Nhom3\DoAnCuoiKy-Nhom3\Entity framework - QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nam3HK1\DBMS\DoAnCuoiKy-Nhom3\DoAnCuoiKy-Nhom3\Entity framework - QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nam3HK1\DBMS\DoAnCuoiKy-Nhom3\DoAnCuoiKy-Nhom3\Entity framework - QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nam3HK1\DBMS\DoAnCuoiKy-Nhom3\DoAnCuoiKy-Nhom3\Entity framework - QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nam3HK1\DBMS\DoAnCuoiKy-Nhom3\DoAnCuoiKy-Nhom3\Entity framework - QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nam3HK1\DBMS\DoAnCuoiKy-Nhom3\DoAnCuoiKy-Nhom3\Entity framework - QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nam3HK1\DBMS\DoAnCuoiKy-Nhom3\DoAnCuoiKy-Nhom3\Entity framework - QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Nam3HK1\DBMS\DoAnCuoiKy-Nhom3\DoAnCuoiKy-Nhom3\Entity framework - QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Nam3HK1\DBMS\DoAnCuoiKy-Nhom3\DoAnCuoiKy-Nhom3\Entity framework - QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Nam3HK1\DBMS\DoAnCuoiKy-Nhom3\DoAnCuoiKy-Nhom3\Entity framework - QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Nam3HK1\DBMS\DoAnCuoiKy-Nhom3\DoAnCuoiKy-Nhom3\Entity framework - QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Nam3HK1\DBMS\DoAnCuoiKy-Nhom3\DoAnCuoiKy-Nhom3\Entity framework - QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Nam3HK1\DBMS\DoAnCuoiKy-Nhom3\DoAnCuoiKy-Nhom3\Entity framework - QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Nam3HK1\DBMS\DoAnCuoiKy-Nhom3\DoAnCuoiKy-Nhom3\Entity framework - QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Nam3HK1\DBMS\DoAnCuoiKy-Nhom3\DoAnCuoiKy-Nhom3\Entity framework - QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Nam3HK1\DBMS\DoAnCuoiKy-Nhom3\DoAnCuoiKy-Nhom3\Entity framework - QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Nam3HK1\DBMS\DoAnCuoiKy-Nhom3\DoAnCuoiKy-Nhom3\Entity framework - QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nam3HK1\DBMS\DoAnCuoiKy-Nhom3\DoAnCuoiKy-Nhom3\Entity framework - QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nam3HK1\DBMS\DoAnCuoiKy-Nhom3\DoAnCuoiKy-Nhom3\Entity framework - QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nam3HK1\DBMS\DoAnCuoiKy-Nhom3\DoAnCuoiKy-Nhom3\Entity framework - QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nam3HK1\DBMS\DoAnCuoiKy-Nhom3\DoAnCuoiKy-Nhom3\Entity framework - QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nam3HK1\DBMS\DoAnCuoiKy-Nhom3\DoAnCuoiKy-Nhom3\Entity framework - QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nam3HK1\DBMS\DoAnCuoiKy-Nhom3\DoAnCuoiKy-Nhom3\Entity framework - QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nam3HK1\DBMS\DoAnCuoiKy-Nhom3\DoAnCuoiKy-Nhom3\Entity framework - QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nam3HK1\DBMS\DoAnCuoiKy-Nhom3\DoAnCuoiKy-Nhom3\Entity framework - QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nam3HK1\DBMS\DoAnCuoiKy-Nhom3\DoAnCuoiKy-Nhom3\Entity framework - QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nam3HK1\DBMS\DoAnCuoiKy-Nhom3\DoAnCuoiKy-Nhom3\Entity framework - QLNhaSach\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.csprojAssemblyReference.cache
+D:\Nam3HK1\DBMS\DoAnCuoiKy-Nhom3\DoAnCuoiKy-Nhom3\Entity framework - QLNhaSach\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.exe.config
+D:\Nam3HK1\DBMS\DoAnCuoiKy-Nhom3\DoAnCuoiKy-Nhom3\Entity framework - QLNhaSach\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.Form1.resources
+D:\Nam3HK1\DBMS\DoAnCuoiKy-Nhom3\DoAnCuoiKy-Nhom3\Entity framework - QLNhaSach\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.formCuonSach.resources
+D:\Nam3HK1\DBMS\DoAnCuoiKy-Nhom3\DoAnCuoiKy-Nhom3\Entity framework - QLNhaSach\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.formDangNhap.resources
+D:\Nam3HK1\DBMS\DoAnCuoiKy-Nhom3\DoAnCuoiKy-Nhom3\Entity framework - QLNhaSach\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.formDauSach.resources
+D:\Nam3HK1\DBMS\DoAnCuoiKy-Nhom3\DoAnCuoiKy-Nhom3\Entity framework - QLNhaSach\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.formDocGia.resources
+D:\Nam3HK1\DBMS\DoAnCuoiKy-Nhom3\DoAnCuoiKy-Nhom3\Entity framework - QLNhaSach\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.formDoiMK.resources
+D:\Nam3HK1\DBMS\DoAnCuoiKy-Nhom3\DoAnCuoiKy-Nhom3\Entity framework - QLNhaSach\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.formMuonTra.resources
+D:\Nam3HK1\DBMS\DoAnCuoiKy-Nhom3\DoAnCuoiKy-Nhom3\Entity framework - QLNhaSach\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.formNhanVien.resources
+D:\Nam3HK1\DBMS\DoAnCuoiKy-Nhom3\DoAnCuoiKy-Nhom3\Entity framework - QLNhaSach\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.FormNXB.resources
+D:\Nam3HK1\DBMS\DoAnCuoiKy-Nhom3\DoAnCuoiKy-Nhom3\Entity framework - QLNhaSach\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.formStaticticsDG.resources
+D:\Nam3HK1\DBMS\DoAnCuoiKy-Nhom3\DoAnCuoiKy-Nhom3\Entity framework - QLNhaSach\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.formStaticticsNV.resources
+D:\Nam3HK1\DBMS\DoAnCuoiKy-Nhom3\DoAnCuoiKy-Nhom3\Entity framework - QLNhaSach\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.formTacGia.resources
+D:\Nam3HK1\DBMS\DoAnCuoiKy-Nhom3\DoAnCuoiKy-Nhom3\Entity framework - QLNhaSach\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.HuongDan.resources
+D:\Nam3HK1\DBMS\DoAnCuoiKy-Nhom3\DoAnCuoiKy-Nhom3\Entity framework - QLNhaSach\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.Properties.Resources.resources
+D:\Nam3HK1\DBMS\DoAnCuoiKy-Nhom3\DoAnCuoiKy-Nhom3\Entity framework - QLNhaSach\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.Report.resources
+D:\Nam3HK1\DBMS\DoAnCuoiKy-Nhom3\DoAnCuoiKy-Nhom3\Entity framework - QLNhaSach\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.csproj.GenerateResource.cache
+D:\Nam3HK1\DBMS\DoAnCuoiKy-Nhom3\DoAnCuoiKy-Nhom3\Entity framework - QLNhaSach\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.csproj.CoreCompileInputs.cache
+D:\Nam3HK1\DBMS\DoAnCuoiKy-Nhom3\DoAnCuoiKy-Nhom3\Entity framework - QLNhaSach\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.csproj.CopyComplete
+D:\Nam3HK1\DBMS\DoAnCuoiKy-Nhom3\DoAnCuoiKy-Nhom3\Entity framework - QLNhaSach\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.exe
+D:\Nam3HK1\DBMS\DoAnCuoiKy-Nhom3\DoAnCuoiKy-Nhom3\Entity framework - QLNhaSach\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.pdb
+D:\Project CV\QLNhaSach\QLNhaSach\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Project CV\QLNhaSach\QLNhaSach\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Project CV\QLNhaSach\QLNhaSach\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Project CV\QLNhaSach\QLNhaSach\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Project CV\QLNhaSach\QLNhaSach\bin\Debug\QLNhaSach.exe.config
+D:\Project CV\QLNhaSach\QLNhaSach\bin\Debug\QLNhaSach.exe
+D:\Project CV\QLNhaSach\QLNhaSach\bin\Debug\QLNhaSach.pdb
+D:\Project CV\QLNhaSach\QLNhaSach\bin\Debug\EntityFramework.dll
+D:\Project CV\QLNhaSach\QLNhaSach\bin\Debug\EntityFramework.SqlServer.dll
+D:\Project CV\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Project CV\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Project CV\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Project CV\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Project CV\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+D:\Project CV\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Project CV\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Project CV\QLNhaSach\QLNhaSach\bin\Debug\EnvDTE.dll
+D:\Project CV\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Project CV\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Project CV\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.Build.Framework.dll
+D:\Project CV\QLNhaSach\QLNhaSach\bin\Debug\stdole.dll
+D:\Project CV\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Project CV\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Project CV\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+D:\Project CV\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+D:\Project CV\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Project CV\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+D:\Project CV\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+D:\Project CV\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+D:\Project CV\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+D:\Project CV\QLNhaSach\QLNhaSach\bin\Debug\EnvDTE80.dll
+D:\Project CV\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.Build.Tasks.Core.dll
+D:\Project CV\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+D:\Project CV\QLNhaSach\QLNhaSach\bin\Debug\VSLangProj.dll
+D:\Project CV\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+D:\Project CV\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+D:\Project CV\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+D:\Project CV\QLNhaSach\QLNhaSach\bin\Debug\VSLangProj80.dll
+D:\Project CV\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+D:\Project CV\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+D:\Project CV\QLNhaSach\QLNhaSach\bin\Debug\Newtonsoft.Json.dll
+D:\Project CV\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+D:\Project CV\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.MSXML.dll
+D:\Project CV\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.Build.Utilities.Core.dll
+D:\Project CV\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+D:\Project CV\QLNhaSach\QLNhaSach\bin\Debug\VSLangProj2.dll
+D:\Project CV\QLNhaSach\QLNhaSach\bin\Debug\EntityFramework.xml
+D:\Project CV\QLNhaSach\QLNhaSach\bin\Debug\EntityFramework.SqlServer.xml
+D:\Project CV\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+D:\Project CV\QLNhaSach\QLNhaSach\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Project CV\QLNhaSach\QLNhaSach\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Project CV\QLNhaSach\QLNhaSach\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Project CV\QLNhaSach\QLNhaSach\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Project CV\QLNhaSach\QLNhaSach\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Project CV\QLNhaSach\QLNhaSach\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Project CV\QLNhaSach\QLNhaSach\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Project CV\QLNhaSach\QLNhaSach\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Project CV\QLNhaSach\QLNhaSach\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Project CV\QLNhaSach\QLNhaSach\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Project CV\QLNhaSach\QLNhaSach\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Project CV\QLNhaSach\QLNhaSach\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Project CV\QLNhaSach\QLNhaSach\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Project CV\QLNhaSach\QLNhaSach\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Project CV\QLNhaSach\QLNhaSach\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Project CV\QLNhaSach\QLNhaSach\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Project CV\QLNhaSach\QLNhaSach\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Project CV\QLNhaSach\QLNhaSach\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Project CV\QLNhaSach\QLNhaSach\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Project CV\QLNhaSach\QLNhaSach\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Project CV\QLNhaSach\QLNhaSach\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Project CV\QLNhaSach\QLNhaSach\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Project CV\QLNhaSach\QLNhaSach\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Project CV\QLNhaSach\QLNhaSach\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Project CV\QLNhaSach\QLNhaSach\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Project CV\QLNhaSach\QLNhaSach\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Project CV\QLNhaSach\QLNhaSach\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Project CV\QLNhaSach\QLNhaSach\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Project CV\QLNhaSach\QLNhaSach\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Project CV\QLNhaSach\QLNhaSach\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Project CV\QLNhaSach\QLNhaSach\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Project CV\QLNhaSach\QLNhaSach\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Project CV\QLNhaSach\QLNhaSach\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Project CV\QLNhaSach\QLNhaSach\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Project CV\QLNhaSach\QLNhaSach\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Project CV\QLNhaSach\QLNhaSach\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Project CV\QLNhaSach\QLNhaSach\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Project CV\QLNhaSach\QLNhaSach\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Project CV\QLNhaSach\QLNhaSach\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Project CV\QLNhaSach\QLNhaSach\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Project CV\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.csprojAssemblyReference.cache
+D:\Project CV\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.exe.config
+D:\Project CV\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.Form1.resources
+D:\Project CV\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.formCuonSach.resources
+D:\Project CV\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.formDangNhap.resources
+D:\Project CV\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.formDauSach.resources
+D:\Project CV\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.formDocGia.resources
+D:\Project CV\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.formDoiMK.resources
+D:\Project CV\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.formMuonTra.resources
+D:\Project CV\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.formNhanVien.resources
+D:\Project CV\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.FormNXB.resources
+D:\Project CV\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.formStaticticsDG.resources
+D:\Project CV\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.formStaticticsNV.resources
+D:\Project CV\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.formTacGia.resources
+D:\Project CV\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.HuongDan.resources
+D:\Project CV\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.Properties.Resources.resources
+D:\Project CV\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.Report.resources
+D:\Project CV\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.csproj.GenerateResource.cache
+D:\Project CV\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.csproj.CoreCompileInputs.cache
+D:\Project CV\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.csproj.CopyComplete
+D:\Project CV\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.exe
+D:\Project CV\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.pdb

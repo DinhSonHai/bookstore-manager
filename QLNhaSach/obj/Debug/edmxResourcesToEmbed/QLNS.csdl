@@ -1,0 +1,209 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="QLThuVienModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="CuonSach">
+    <Key>
+      <PropertyRef Name="MaCuon" />
+    </Key>
+    <Property Name="MaSach" Type="String" MaxLength="4" FixedLength="true" Unicode="true" />
+    <Property Name="MaCuon" Type="String" MaxLength="4" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="ViTri" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="DauSach" Relationship="Self.FK_CuonSach_DauSach" FromRole="CuonSach" ToRole="DauSach" />
+    <NavigationProperty Name="MuonTras" Relationship="Self.FK_MuonTra_CuonSach" FromRole="CuonSach" ToRole="MuonTra" />
+  </EntityType>
+  <EntityType Name="DauSach">
+    <Key>
+      <PropertyRef Name="MaSach" />
+    </Key>
+    <Property Name="MaSach" Type="String" MaxLength="4" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="Tua" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="MaNXB" Type="String" MaxLength="4" FixedLength="true" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="CuonSaches" Relationship="Self.FK_CuonSach_DauSach" FromRole="DauSach" ToRole="CuonSach" />
+    <NavigationProperty Name="NXB" Relationship="Self.FK_DauSach_NXB" FromRole="DauSach" ToRole="NXB" />
+    <NavigationProperty Name="TacGias" Relationship="Self.FK_TacGia_DauSach" FromRole="DauSach" ToRole="TacGia" />
+  </EntityType>
+  <EntityType Name="DocGia">
+    <Key>
+      <PropertyRef Name="MaThe" />
+    </Key>
+    <Property Name="MaThe" Type="String" MaxLength="4" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="Hoten" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="NgayCap" Type="DateTime" Precision="0" />
+    <Property Name="HanDung" Type="DateTime" Precision="0" />
+    <Property Name="DiaChi" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="MuonTras" Relationship="Self.FK_MuonTra_DocGia" FromRole="DocGia" ToRole="MuonTra" />
+    <Property Name="NgaySinh" Type="DateTime" Precision="0" />
+  </EntityType>
+  <EntityType Name="Login">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Pass" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="MuonTra">
+    <Key>
+      <PropertyRef Name="MaThe" />
+      <PropertyRef Name="MaCuon" />
+      <PropertyRef Name="MaNV" />
+    </Key>
+    <Property Name="MaThe" Type="String" MaxLength="4" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="MaCuon" Type="String" MaxLength="4" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="MaNV" Type="String" MaxLength="4" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="NgayMuon" Type="DateTime" Precision="0" />
+    <Property Name="NgayTra" Type="DateTime" Precision="0" />
+    <NavigationProperty Name="CuonSach" Relationship="Self.FK_MuonTra_CuonSach" FromRole="MuonTra" ToRole="CuonSach" />
+    <NavigationProperty Name="DocGia" Relationship="Self.FK_MuonTra_DocGia" FromRole="MuonTra" ToRole="DocGia" />
+    <NavigationProperty Name="NhanVien" Relationship="QLThuVienModel.FK_MuonTra_NhanVien" FromRole="MuonTra" ToRole="NhanVien" />
+  </EntityType>
+  <EntityType Name="NXB">
+    <Key>
+      <PropertyRef Name="MaNXB" />
+    </Key>
+    <Property Name="MaNXB" Type="String" MaxLength="4" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="TenNXB" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="DiaChi" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="DauSaches" Relationship="Self.FK_DauSach_NXB" FromRole="NXB" ToRole="DauSach" />
+  </EntityType>
+  <EntityType Name="sysdiagram">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="TacGia">
+    <Key>
+      <PropertyRef Name="MaTG" />
+      <PropertyRef Name="MaSach" />
+    </Key>
+    <Property Name="MaTG" Type="String" MaxLength="4" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="MaSach" Type="String" MaxLength="4" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="TenTG" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="DiaChi" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="ButDanh" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="DauSach" Relationship="Self.FK_TacGia_DauSach" FromRole="TacGia" ToRole="DauSach" />
+  </EntityType>
+  <Association Name="FK_CuonSach_DauSach">
+    <End Role="DauSach" Type="Self.DauSach" Multiplicity="0..1" />
+    <End Role="CuonSach" Type="Self.CuonSach" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="DauSach">
+        <PropertyRef Name="MaSach" />
+      </Principal>
+      <Dependent Role="CuonSach">
+        <PropertyRef Name="MaSach" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_MuonTra_CuonSach">
+    <End Role="CuonSach" Type="Self.CuonSach" Multiplicity="1" />
+    <End Role="MuonTra" Type="Self.MuonTra" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CuonSach">
+        <PropertyRef Name="MaCuon" />
+      </Principal>
+      <Dependent Role="MuonTra">
+        <PropertyRef Name="MaCuon" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_DauSach_NXB">
+    <End Role="NXB" Type="Self.NXB" Multiplicity="1" />
+    <End Role="DauSach" Type="Self.DauSach" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="NXB">
+        <PropertyRef Name="MaNXB" />
+      </Principal>
+      <Dependent Role="DauSach">
+        <PropertyRef Name="MaNXB" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_TacGia_DauSach">
+    <End Role="DauSach" Type="Self.DauSach" Multiplicity="1" />
+    <End Role="TacGia" Type="Self.TacGia" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="DauSach">
+        <PropertyRef Name="MaSach" />
+      </Principal>
+      <Dependent Role="TacGia">
+        <PropertyRef Name="MaSach" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_MuonTra_DocGia">
+    <End Role="DocGia" Type="Self.DocGia" Multiplicity="1" />
+    <End Role="MuonTra" Type="Self.MuonTra" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="DocGia">
+        <PropertyRef Name="MaThe" />
+      </Principal>
+      <Dependent Role="MuonTra">
+        <PropertyRef Name="MaThe" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="QLThuVienEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="CuonSaches" EntityType="Self.CuonSach" />
+    <EntitySet Name="DauSaches" EntityType="Self.DauSach" />
+    <EntitySet Name="DocGias" EntityType="Self.DocGia" />
+    <EntitySet Name="Logins" EntityType="Self.Login" />
+    <EntitySet Name="MuonTras" EntityType="Self.MuonTra" />
+    <EntitySet Name="NXBs" EntityType="Self.NXB" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagram" />
+    <EntitySet Name="TacGias" EntityType="Self.TacGia" />
+    <AssociationSet Name="FK_CuonSach_DauSach" Association="Self.FK_CuonSach_DauSach">
+      <End Role="DauSach" EntitySet="DauSaches" />
+      <End Role="CuonSach" EntitySet="CuonSaches" />
+    </AssociationSet>
+    <AssociationSet Name="FK_MuonTra_CuonSach" Association="Self.FK_MuonTra_CuonSach">
+      <End Role="CuonSach" EntitySet="CuonSaches" />
+      <End Role="MuonTra" EntitySet="MuonTras" />
+    </AssociationSet>
+    <AssociationSet Name="FK_DauSach_NXB" Association="Self.FK_DauSach_NXB">
+      <End Role="NXB" EntitySet="NXBs" />
+      <End Role="DauSach" EntitySet="DauSaches" />
+    </AssociationSet>
+    <AssociationSet Name="FK_TacGia_DauSach" Association="Self.FK_TacGia_DauSach">
+      <End Role="DauSach" EntitySet="DauSaches" />
+      <End Role="TacGia" EntitySet="TacGias" />
+    </AssociationSet>
+    <AssociationSet Name="FK_MuonTra_DocGia" Association="Self.FK_MuonTra_DocGia">
+      <End Role="DocGia" EntitySet="DocGias" />
+      <End Role="MuonTra" EntitySet="MuonTras" />
+    </AssociationSet>
+    <EntitySet Name="NhanViens" EntityType="QLThuVienModel.NhanVien" />
+    <AssociationSet Name="FK_MuonTra_NhanVien" Association="QLThuVienModel.FK_MuonTra_NhanVien">
+      <End Role="NhanVien" EntitySet="NhanViens" />
+      <End Role="MuonTra" EntitySet="MuonTras" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="NhanVien">
+    <Key>
+      <PropertyRef Name="MaNV" />
+    </Key>
+    <Property Name="MaNV" Type="String" Nullable="false" MaxLength="4" FixedLength="true" Unicode="true" />
+    <Property Name="Hoten" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Nu" Type="Boolean" />
+    <Property Name="DiaChi" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="SoDT" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+    <Property Name="NgayNV" Type="DateTime" Precision="0" />
+    <Property Name="Luong" Type="Decimal" Precision="18" Scale="0" />
+    <NavigationProperty Name="MuonTras" Relationship="QLThuVienModel.FK_MuonTra_NhanVien" FromRole="NhanVien" ToRole="MuonTra" />
+  </EntityType>
+  <Association Name="FK_MuonTra_NhanVien">
+    <End Type="QLThuVienModel.NhanVien" Role="NhanVien" Multiplicity="1" />
+    <End Type="QLThuVienModel.MuonTra" Role="MuonTra" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="NhanVien">
+        <PropertyRef Name="MaNV" />
+      </Principal>
+      <Dependent Role="MuonTra">
+        <PropertyRef Name="MaNV" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

@@ -1,0 +1,197 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="QLThuVienModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="CuonSach">
+    <Key>
+      <PropertyRef Name="MaCuon" />
+    </Key>
+    <Property Name="MaSach" Type="nchar" MaxLength="4" />
+    <Property Name="MaCuon" Type="nchar" MaxLength="4" Nullable="false" />
+    <Property Name="ViTri" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="DauSach">
+    <Key>
+      <PropertyRef Name="MaSach" />
+    </Key>
+    <Property Name="MaSach" Type="nchar" MaxLength="4" Nullable="false" />
+    <Property Name="Tua" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="MaNXB" Type="nchar" MaxLength="4" Nullable="false" />
+  </EntityType>
+  <EntityType Name="DocGia">
+    <Key>
+      <PropertyRef Name="MaThe" />
+    </Key>
+    <Property Name="MaThe" Type="nchar" MaxLength="4" Nullable="false" />
+    <Property Name="Hoten" Type="nvarchar" MaxLength="50" />
+    <Property Name="NgaySinh" Type="date" />
+    <Property Name="NgayCap" Type="date" />
+    <Property Name="HanDung" Type="date" />
+    <Property Name="DiaChi" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Login">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Pass" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="MuonTra">
+    <Key>
+      <PropertyRef Name="MaThe" />
+      <PropertyRef Name="MaCuon" />
+      <PropertyRef Name="MaNV" />
+    </Key>
+    <Property Name="MaThe" Type="nchar" MaxLength="4" Nullable="false" />
+    <Property Name="MaCuon" Type="nchar" MaxLength="4" Nullable="false" />
+    <Property Name="MaNV" Type="nchar" MaxLength="4" Nullable="false" />
+    <Property Name="NgayMuon" Type="date" />
+    <Property Name="NgayTra" Type="date" />
+  </EntityType>
+  <EntityType Name="NhanVien">
+    <Key>
+      <PropertyRef Name="MaNV" />
+    </Key>
+    <Property Name="MaNV" Type="nchar" MaxLength="4" Nullable="false" />
+    <Property Name="Hoten" Type="nvarchar" MaxLength="50" />
+    <Property Name="Nu" Type="bit" />
+    <Property Name="DiaChi" Type="nvarchar" MaxLength="50" />
+    <Property Name="SoDT" Type="nchar" MaxLength="10" />
+    <Property Name="NgayNV" Type="date" />
+    <Property Name="Luong" Type="numeric" Precision="18" Scale="0" />
+  </EntityType>
+  <EntityType Name="NXB">
+    <Key>
+      <PropertyRef Name="MaNXB" />
+    </Key>
+    <Property Name="MaNXB" Type="nchar" MaxLength="4" Nullable="false" />
+    <Property Name="TenNXB" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="DiaChi" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <EntityType Name="TacGia">
+    <Key>
+      <PropertyRef Name="MaTG" />
+      <PropertyRef Name="MaSach" />
+    </Key>
+    <Property Name="MaTG" Type="nchar" MaxLength="4" Nullable="false" />
+    <Property Name="MaSach" Type="nchar" MaxLength="4" Nullable="false" />
+    <Property Name="TenTG" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="DiaChi" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="ButDanh" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <Association Name="FK_CuonSach_DauSach">
+    <End Role="DauSach" Type="Self.DauSach" Multiplicity="0..1" />
+    <End Role="CuonSach" Type="Self.CuonSach" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="DauSach">
+        <PropertyRef Name="MaSach" />
+      </Principal>
+      <Dependent Role="CuonSach">
+        <PropertyRef Name="MaSach" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_DauSach_NXB">
+    <End Role="NXB" Type="Self.NXB" Multiplicity="1" />
+    <End Role="DauSach" Type="Self.DauSach" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="NXB">
+        <PropertyRef Name="MaNXB" />
+      </Principal>
+      <Dependent Role="DauSach">
+        <PropertyRef Name="MaNXB" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_MuonTra_CuonSach">
+    <End Role="CuonSach" Type="Self.CuonSach" Multiplicity="1" />
+    <End Role="MuonTra" Type="Self.MuonTra" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CuonSach">
+        <PropertyRef Name="MaCuon" />
+      </Principal>
+      <Dependent Role="MuonTra">
+        <PropertyRef Name="MaCuon" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_MuonTra_DocGia">
+    <End Role="DocGia" Type="Self.DocGia" Multiplicity="1" />
+    <End Role="MuonTra" Type="Self.MuonTra" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="DocGia">
+        <PropertyRef Name="MaThe" />
+      </Principal>
+      <Dependent Role="MuonTra">
+        <PropertyRef Name="MaThe" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_MuonTra_NhanVien">
+    <End Role="NhanVien" Type="Self.NhanVien" Multiplicity="1" />
+    <End Role="MuonTra" Type="Self.MuonTra" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="NhanVien">
+        <PropertyRef Name="MaNV" />
+      </Principal>
+      <Dependent Role="MuonTra">
+        <PropertyRef Name="MaNV" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_TacGia_DauSach">
+    <End Role="DauSach" Type="Self.DauSach" Multiplicity="1" />
+    <End Role="TacGia" Type="Self.TacGia" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="DauSach">
+        <PropertyRef Name="MaSach" />
+      </Principal>
+      <Dependent Role="TacGia">
+        <PropertyRef Name="MaSach" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="QLThuVienModelStoreContainer">
+    <EntitySet Name="CuonSach" EntityType="Self.CuonSach" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="DauSach" EntityType="Self.DauSach" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="DocGia" EntityType="Self.DocGia" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Login" EntityType="Self.Login" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="MuonTra" EntityType="Self.MuonTra" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="NhanVien" EntityType="Self.NhanVien" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="NXB" EntityType="Self.NXB" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TacGia" EntityType="Self.TacGia" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_CuonSach_DauSach" Association="Self.FK_CuonSach_DauSach">
+      <End Role="DauSach" EntitySet="DauSach" />
+      <End Role="CuonSach" EntitySet="CuonSach" />
+    </AssociationSet>
+    <AssociationSet Name="FK_DauSach_NXB" Association="Self.FK_DauSach_NXB">
+      <End Role="NXB" EntitySet="NXB" />
+      <End Role="DauSach" EntitySet="DauSach" />
+    </AssociationSet>
+    <AssociationSet Name="FK_MuonTra_CuonSach" Association="Self.FK_MuonTra_CuonSach">
+      <End Role="CuonSach" EntitySet="CuonSach" />
+      <End Role="MuonTra" EntitySet="MuonTra" />
+    </AssociationSet>
+    <AssociationSet Name="FK_MuonTra_DocGia" Association="Self.FK_MuonTra_DocGia">
+      <End Role="DocGia" EntitySet="DocGia" />
+      <End Role="MuonTra" EntitySet="MuonTra" />
+    </AssociationSet>
+    <AssociationSet Name="FK_MuonTra_NhanVien" Association="Self.FK_MuonTra_NhanVien">
+      <End Role="NhanVien" EntitySet="NhanVien" />
+      <End Role="MuonTra" EntitySet="MuonTra" />
+    </AssociationSet>
+    <AssociationSet Name="FK_TacGia_DauSach" Association="Self.FK_TacGia_DauSach">
+      <End Role="DauSach" EntitySet="DauSach" />
+      <End Role="TacGia" EntitySet="TacGia" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

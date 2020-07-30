@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="9a06fa132b6a4bff905e476d708ee5ea" Name="Diagram1">
+        <EntityTypeShape EntityType="QLThuVienModel.CuonSach" Width="1.5" PointX="3.375" PointY="6" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLThuVienModel.DauSach" Width="1.5" PointX="3.5" PointY="3.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLThuVienModel.DocGia" Width="1.5" PointX="6.25" PointY="8.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLThuVienModel.Login" Width="1.5" PointX="3.625" PointY="1.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLThuVienModel.MuonTra" Width="1.5" PointX="3.375" PointY="8.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLThuVienModel.NXB" Width="1.5" PointX="6.25" PointY="3.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLThuVienModel.sysdiagram" Width="1.5" PointX="9.125" PointY="3.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLThuVienModel.TacGia" Width="1.5" PointX="0.625" PointY="3.25" IsExpanded="true" />
+        <AssociationConnector Association="QLThuVienModel.FK_CuonSach_DauSach" ManuallyRouted="false" />
+        <AssociationConnector Association="QLThuVienModel.FK_MuonTra_CuonSach" ManuallyRouted="false" />
+        <AssociationConnector Association="QLThuVienModel.FK_DauSach_NXB" ManuallyRouted="false" />
+        <AssociationConnector Association="QLThuVienModel.FK_TacGia_DauSach" ManuallyRouted="true" >
+          <ConnectorPoint PointX="4.9504736063941515" PointY="5.422587890625" />
+          <ConnectorPoint PointX="2.8125" PointY="85.79544927148271" />
+          <ConnectorPoint PointX="4.135416666666667" PointY="85.79544927148271" />
+          <ConnectorPoint PointX="4.135416666666667" PointY="85.23294927148271" />
+          <ConnectorPoint PointX="6.75" PointY="85.23294927148271" />
+          <ConnectorPoint PointX="6.0625" PointY="81.731120260367476" />
+          <ConnectorPoint PointX="6.0625" PointY="82.647786927034133" />
+          <ConnectorPoint PointX="2.9795633250077942" PointY="82.647786927034133" />
+          <ConnectorPoint PointX="2.8128966583411272" PointY="82.647786927034133" />
+          <ConnectorPoint PointX="2.125" PointY="82.647786927034133" />
+          <ConnectorPoint PointX="2.125" PointY="5.422587890625" />
+        </AssociationConnector>
+        <AssociationConnector Association="QLThuVienModel.FK_MuonTra_DocGia" ManuallyRouted="false" />
+        <EntityTypeShape EntityType="QLThuVienModel.NhanVien" Width="1.5" PointX="0.75" PointY="7" />
+        <AssociationConnector Association="QLThuVienModel.FK_MuonTra_NhanVien" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
